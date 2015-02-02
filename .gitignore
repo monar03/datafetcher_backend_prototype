@@ -12,6 +12,8 @@ src_managed/
 project/boot/
 project/plugins/project/
 
+src/main/scala/jp/aquabox/analyzelib/scala/twitter/TwitterControl.scala
+
 # Scala-IDE specific
 .scala_dependencies
 .worksheet
